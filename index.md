@@ -33,5 +33,11 @@ There will be a number of homeworks given for the course, for which descriptions
 
 * [KNN and Logistic Regression on Time Series Data](https://bu-ie-582.github.io/fall21-sencer4898/files/HW3.html)
 
+### Homework 4
+
+* [Homework 4 Instructions](https://bu-ie-582.github.io/fall21-sencer4898/files/IE582_Fall21_Homework4.pdf)
+
+* [Multiple Instance Learning on Musk1 Data](https://bu-ie-582.github.io/fall21-sencer4898/files/HW4.html)
+
 
  hehexd
