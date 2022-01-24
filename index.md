@@ -43,5 +43,5 @@ There will be a number of homeworks given for the course, for which descriptions
 
 * [Project Instructions](https://bu-ie-582.github.io/fall21-sencer4898/files/IE582_Fall21_Project.pdf)
 
-* [Gender Prediction based on E-commerce Data](https://bu-ie-582.github.io/fall21-sencer4898/files/project_report.ipynb)
+* [Gender Prediction based on E-commerce Data](https://bu-ie-582.github.io/fall21-sencer4898/files/ProjectReport.html)
 
