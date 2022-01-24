@@ -39,5 +39,11 @@ There will be a number of homeworks given for the course, for which descriptions
 
 * [Multiple Instance Learning on Musk1 Data](https://bu-ie-582.github.io/fall21-sencer4898/files/HW4.html)
 
+### Final Project
+
+* [Project Instructions](https://bu-ie-582.github.io/fall21-sencer4898/files/IE582_Fall21_Project.pdf)
+
+* [Multiple Instance Learning on Musk1 Data](https://bu-ie-582.github.io/fall21-sencer4898/files/Project Report.ipynb)
+
 
  hehexd
